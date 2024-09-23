@@ -1,4 +1,5 @@
 Hi there 👋. I am Felix Osei. I am studying computer science in Chesire West and south College. 
+I am a freelance web developer.
 I take strong interest in computer networks and coding as well to enable me reach my goal of becoming a cyber security professional.
 Currently studying python.
 
